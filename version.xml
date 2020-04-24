@@ -5,7 +5,8 @@
         <url>https://raw.githubusercontent.com/AlexDives/ProfUpdater/master/Prof.exe</url> 
         <filePath>./Prof.exe</filePath>
         <md5>F16F9270971EAEAE8E313B32E8FF0814</md5>
-        <description>\tОбновление от [24.04.2020]:
+        <description>
+            Обновление от [24.04.2020]:
         1) Изменен метод обновления программы</description> 
         <launchArgs></launchArgs> 
     </update>

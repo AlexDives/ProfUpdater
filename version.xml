@@ -3,7 +3,7 @@
     <update> 
         <version>2.0.0.0</version> 
         <url>https://raw.githubusercontent.com/AlexDives/ProfUpdater/master/Prof.exe</url> 
-        <filePath>./GraduateSQL.exe</filePath>
+        <filePath>./Prof.exe</filePath>
         <md5>F16F9270971EAEAE8E313B32E8FF0814</md5>
         <description>Update project in 02.03.2020:
         1. Insert update to project</description> 

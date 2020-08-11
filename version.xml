@@ -1,15 +1,12 @@
 <?xml version="1.0"?> 
 <sharpUpdate> 
     <update> 
-        <version>2.0.2.0</version> 
+        <version>2.0.3.0</version> 
         <url>https://raw.githubusercontent.com/AlexDives/ProfUpdater/master/Prof.exe</url> 
         <filePath>./Prof.exe</filePath>
         <md5>F16F9270971EAEAE8E313B32E8FF0814</md5>
         <description>
-            Обновление от [11.08.2020]:
-        -- Глобальное обновление программы --
-        1) Увеличена скорость работы приложения
-        2) Обновление внешнего вида приложения</description> 
+            тест</description> 
         <launchArgs></launchArgs> 
     </update>
     <update> 

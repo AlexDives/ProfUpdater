@@ -1,13 +1,13 @@
 <?xml version="1.0"?> 
 <sharpUpdate> 
     <update> 
-        <version>2.1.1.0</version> 
+        <version>2.1.2.0</version> 
         <url>https://raw.githubusercontent.com/AlexDives/ProfUpdater/master/Prof.exe</url> 
         <filePath>./Prof.exe</filePath>
         <md5>F16F9270971EAEAE8E313B32E8FF0814</md5>
         <description>
-            Обновление от [04.02.2021]:
-        -- исправление ошибки с обновлением програмы --</description> 
+            Обновление от [08.02.2021]:
+        -- исправление ошибки с обновлением списка членов профсоюза --</description> 
         <launchArgs></launchArgs> 
     </update>
     <update> 
